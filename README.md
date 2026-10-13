@@ -92,7 +92,3 @@ If you find this script useful, consider supporting my work by making a donation
 [**Donations**](https://burixon.dev/donate/)
 
 Your contributions help in developing new projects and improving existing tools!
-
-## License
-
-TermuxConf is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. See the [official license text](https://www.gnu.org/licenses/agpl-3.0.html) for the full terms.
