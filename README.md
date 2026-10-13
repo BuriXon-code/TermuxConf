@@ -29,8 +29,18 @@ Use the graphical interface to adjust supported terminal settings, configure har
    pkg install python
    ```
 
-3. Download `TermuxConf.sh` and `banner.png` from this repository, keeping the banner in the same directory as the script if you want to use it in your project page or documentation.
-4. Open Termux and navigate to the directory containing `TermuxConf.sh`.
+3. Download `TermuxConf.sh`:
+
+	```bash
+	git clone https://github.com/BuriXon-code/TermuxConf/
+	```
+
+4. Open Termux and navigate to the directory containing `TermuxConf.sh`:
+
+	```bash
+	cd TermuxConf
+	```
+
 5. Make the script executable:
 
    ```bash
